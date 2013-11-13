@@ -1,0 +1,229 @@
+/* RESETS */
+body, body * {
+	margin: 0;
+	padding: 0;
+}
+
+/* older versions of IE put borders around images in they are links, this takes that out */
+a img {
+	border: 0;
+}
+
+/*  LAYOUT */
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;	
+	color: #333; /* black is default for all browsers, so if you want black, you don't need to specify color */
+	line-height: 1.4; /* always a %, bare minimum would be 130%(1.3), spacing between lines of text, puts 1/2 above and 1/2 below top and bottom of text */
+	padding-bottom: 50px;	
+	background-image: url("images/background-pattern-3.jpg");
+}
+
+/* HEADER STYLES */
+header, footer{	
+	width: 800px;	
+	margin: auto;
+}
+#header-content{
+	overflow: hidden;
+	margin-top: 20px;
+	border-bottom: 2px solid black;
+}
+#logo{
+	text-align: center;
+	width: 30%;
+	float: left;
+	padding-bottom: 10px;
+	border-bottom: 3px solid black;
+}
+header .main-nav{
+	width: 70%;
+	float: left;
+	padding: 6px 0px 7px 0px;
+	margin-bottom: 1px;
+	border-bottom: 2px solid black;
+	/* border: 1px solid blue; */
+}
+#socials{
+	width: 20%;
+	float: right;
+}
+.main-nav ul{
+	list-style-type: none;	
+	padding: 20px 0px 10px 100px;
+}
+.main-nav li{
+	display: inline;
+	margin-right: 40px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover,
+a:focus{
+	text-decoration: underline;
+}
+#logo a:hover,
+#logo a:focus{
+	text-decoration: none;
+}
+#socials ul{
+	padding: 1px 0px 0px 0px;
+	font-size: 12px;
+}
+#socials li{
+	display: inline;
+	margin-left: 10px;
+}
+/* END HEADER STYLES */
+
+/* BODY STYLES */
+#content{
+	clear: both;
+	width: 800px;
+	margin: auto;
+	padding: 40px 0;
+}
+.colwrapper{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+.col1of2{
+	width: 300px;
+	float: left;
+	/*border: 1px solid red;*/
+}
+.col2of2{
+	width: 300px;
+	float: right;
+	/* border: 1px solid blue;*/
+}
+.col2of2 a{
+	text-decoration: underline;
+}
+.col2of2 a:hover,
+.col2of2 a:focus{
+	color: blue;
+}
+.col2of2 h2{
+	margin-bottom: 30px;
+}
+.col2of2 p{
+	margin-bottom: 10px;
+}
+#resume{
+	clear: both;
+}
+h1{
+	font-weight: normal;
+	font-size: 24px;
+}
+h2{
+	font-weight: normal;
+	font-size: 20px;
+}
+h3{
+	font-weight: normal;
+	margin-top: 20px;
+}
+#resume h3{
+	margin-top: 30px;
+}
+.preview-gallery{
+	width: 80%;
+	margin: auto;
+}
+.preview-gallery div{
+	margin-bottom: 40px;
+}
+.preview-gallery p{
+	margin-top: 10px;
+}
+.preview{
+	clear:both;
+	float: left;
+	width: 300px;
+}
+img{
+	width: 100%;
+	padding: 5px;
+	background: white;
+	-moz-box-shadow: 0px 0px 10px #777777;
+	-webkit-box-shadow: 0px 0px 10px #777777;
+	box-shadow: 0px 0px 10px #777777;
+}
+.codesample{
+	margin-bottom: 100px;
+}
+#portrait{
+	width: 70%;
+	float: right;
+}
+.preview-description{
+	float: right;
+	width: 300px;
+}
+.clear{
+	clear: both;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.bold{
+	font-weight: bold;
+}
+.stars{
+	width: 40px;
+	font-weight: bold;
+	text-align: right;
+	padding-right: 10px;
+}
+#resume li{
+	margin-left: 30px;
+}
+#resume{
+	overflow: hidden;
+}
+/* END BODY STYLES */
+
+/* CONTACT FORM STYLES */
+.text-box{
+	width: 200px;
+	border: 1px solid black;
+}
+textarea{
+	width: 200px;
+	height: 150px;
+	border: 1px solid black;
+}
+.top{
+	vertical-align: text-top;
+}
+form td{
+	text-align: right;
+	padding: 5px;
+}
+/* END CONTACT FORM STYLES */
+
+/* FOOTER STYLES */
+.to-top{
+	font-size: 12px;
+	border-bottom: 2px solid black;
+	margin-bottom: 1px;
+}
+footer nav{
+	border-top: 2px solid black;
+}
+footer .main-nav ul{
+	padding: 20px 0px 10px 350px;
+}
+
+/* END FOOTER STYLES */
+
+
+
