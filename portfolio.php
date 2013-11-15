@@ -6,8 +6,10 @@
     		<div class="preview">
     			
     		</div>
-    		<div class="preview-description">
-    			<h2>Portfolio</h2><span>Click on the images for a larger preview.</span>
+    		<div class="col2of2">
+    			<h2>Portfolio</h2>
+    			<p>Click on the images for a larger preview.</p>
+    			<p>Check out <a href="https://github.com/jdforrest" target="_blank">my GitHub page</a></li> for more code samples.</p>
     		</div>	    			
     		<div class="preview clear">
     			<a href="images/whole-grain-lunch-box-preview.jpg"><img src="images/whole-grain-lunch-box-preview.jpg" alt="Whole Grain Lunch Box" title="Whole Grain Lunch Box"></a>

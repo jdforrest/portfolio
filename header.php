@@ -34,7 +34,7 @@
 		<nav id="socials">
 			<ul>
 				<li><a href="http://www.linkedin.com/pub/john-forrest/41/44/186" target="_blank">LinkedIn</a></li>
-				<li><a href="https://github.com/jdforrest" target="_blank">Github</a></li>
+				<li><a href="https://github.com/jdforrest" target="_blank">GitHub</a></li>
 				<li><a href="https://twitter.com/CascadingJohn" target="_blank">Twitter</a></li>
 			</ul>
 		</nav>
