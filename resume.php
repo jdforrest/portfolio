@@ -38,10 +38,12 @@
 	    				<td class="stars">&diams;&diams;</td>
 	    				<td>ASP.NET</td>
 	    			</tr>
+	    			<!-- Working on Responsive Design atm
 	    			<tr>
-	    				<td class="stars">&diams;</td>
+	    				<td class="stars">&diams;&diams;</td>
 	    				<td>Responsive Design</td>
 	    			</tr>
+	    			-->
 	    		</table>
 
 	    	</div>
