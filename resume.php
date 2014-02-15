@@ -19,7 +19,7 @@
 	    				<td>WordPress</td>
 	    			</tr>
 	    			<tr>
-	    				<td class="stars">&diams;&diams;&diams;</td>
+	    				<td class="stars">&diams;&diams;&diams;&diams;</td>
 	    				<td>PHP</td>
 	    			</tr>
 	    			<tr>
@@ -65,6 +65,14 @@
 	    		</ul>
 	    		<h3>Experience</h3>
 	    		<ul>
+	    			<li><span class="bold">Freelance Web Developer - jdforrest.net</span><br>
+	    				 June 2013 - Present	    				
+	    				<ul>
+	    					<li>Focus on PHP and JavaScript with some database work in SQL.</li>
+	    					<li>Several sites built using WordPress.</li>
+	    					<li>Collaborated with web designers and other web developers using <a href="https://github.com/jdforrest" target="_blank">GitHub.</a></li>
+	    				</ul>
+	    			</li>
 	    			<li><span class="bold">Science Instructional Designer - McGraw-Hill, Center for Digital Innovation</span><br>
 	    				May 2012 - September 2012	    				
 	    				<ul>

@@ -124,6 +124,12 @@ h2{
 	font-weight: normal;
 	font-size: 20px;
 }
+h2.h2-no-bottom{
+	margin-bottom: 5px;
+}
+.inline{
+	display: inline;
+}
 h3{
 	font-weight: normal;
 	margin-top: 20px;
