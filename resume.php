@@ -50,7 +50,9 @@
 	    	<div class="col2of2">
 	    		<h2>Resume</h2>
 	    		<p>
-	    			Download my resume: <a href="Resume_ForrestJohn.docx" target="_blank">Word</a>, <a href="Resume_ForrestJohn.pdf" target="_blank">PDF</a>, <a href="Resume_ForrestJohn.txt" target="_blank">Text</a><br>
+	    			Download my resume: <a href="resume_john_forrest.docx" target="_blank">Word</a>, 
+	    			<a href="resume_john_forrest.pdf" target="_blank">PDF</a>, 
+	    			<a href="resume_john_forrest.txt" target="_blank">Text</a><br>
 	    		</p>
 	    		<p>
 	    			Check out my <a href="http://www.linkedin.com/pub/john-forrest/41/44/186" target="_blank">LinkedIn</a> profile for more information.

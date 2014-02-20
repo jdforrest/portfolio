@@ -9,10 +9,7 @@
     		<div class="col2of2">
     			<h2 class="h2-no-bottom">Portfolio</h2>
     			<small>Click on the images for a larger preview.</small>
-    		</div>
-    		
-    		
-    			  
+    		</div>   			  
     		<div class="preview clear">
     			<a href="images/creoi-preview.jpg"><img src="images/creoi-preview.jpg" alt="creoi.org" title="creoi.org"></a>
     		</div>
@@ -33,9 +30,6 @@
     		</div>
     		<a href="images/creoi-codesample.jpg"><img src="images/creoi-codesample.jpg" alt="code sample for creoi.org" title="Code sample from creoi.org" class="codesample"></a>
 
-
-
-  			
     		<div class="preview clear">
     			<a href="images/whole-grain-lunch-box-preview.jpg"><img src="images/whole-grain-lunch-box-preview.jpg" alt="Whole Grain Lunch Box" title="Whole Grain Lunch Box"></a>
     		</div>
