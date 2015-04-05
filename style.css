@@ -137,6 +137,20 @@ h3{
 #resume h3{
 	margin-top: 30px;
 }
+#education-list{
+	margin-top: 10px;
+}
+#experience-list>li{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+#experience-list a{
+	color: black;
+	text-decoration: underline;
+}
+#experience-list a:hover{
+	color: blue;
+}
 .preview-gallery{
 	width: 80%;
 	margin: auto;
