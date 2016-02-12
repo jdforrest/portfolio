@@ -3,4 +3,4 @@ portfolio
 
 Code for my portfolio site.
 
-No longer in use as of June 2015.
+As of June 2015, redesigned and relaunched site using Bootstrap and fonts by Font Awesome.
