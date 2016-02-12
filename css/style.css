@@ -151,6 +151,7 @@ img{
 	nav,
 	h2 .fa,
 	.resume-buttons,
+	.resume-buttons li:first-of-type,
 	#skills,
 	#portfolio,
 	#contact
